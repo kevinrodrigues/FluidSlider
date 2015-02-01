@@ -13,6 +13,7 @@ Responsive jquery plugin slider.
 
 1. Custom arguments which you can pass into the call to the plugin below. Alternatively you can just specify them directly (Point 2).
 
+```html
 var args = {
 	navRight: '.nav-right',
 	navLeft: '.nav-left',
@@ -21,12 +22,15 @@ var args = {
 };
 
 $('.carousel').FluidSlider(args);
+```
 
 2. Passing in options directly.
 
+```html
 $('.carousel').FluidSlider({
 	navRight: '.nav-right',
 	navLeft: '.nav-left',
 	speed: 1000,
 	slideDuration: 4000
 });
+```
