@@ -215,7 +215,7 @@
 	 	}
 	 };
 
-	 FluidSlider.prototype._direction = function() {
+	 FluidSlider.prototype._direction = function(e) {
 	 	var direction;
 
 	 	if (typeof e !== 'undefined') {
