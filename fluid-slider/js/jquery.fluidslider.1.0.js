@@ -332,8 +332,7 @@
 
 });
 
-//some custom options for the carousel.
-
+//Example usage..
 var args = {
 	navRight: '.nav-right',
 	navLeft: '.nav-left',
