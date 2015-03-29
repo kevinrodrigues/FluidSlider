@@ -1,5 +1,7 @@
 ## FluidSlider
 
+* Demo: [Checkout the demo](http://kevinrodrigues.github.io/FluidSlider/)
+
 Responsive jquery plugin slider.
 
 ## Features
